@@ -1,0 +1,16 @@
+{
+  "name": "HeadlessBrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node PupInstagram.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Rowaihi",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.30.0",
+    "puppeteer": "^8.0.0"
+  }
+}
