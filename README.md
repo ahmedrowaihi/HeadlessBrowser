@@ -20,4 +20,8 @@ WorkMail: ahmed.rowaihi@sohoby.sa
 
 tips to use the examples:
 have the project using git commands, or download it.
-Enter the project directory and run the commands - npm install - node [exmapleName] // like node PupInstagram.js
+    Enter the project directory
+    and run the commands:
+    1- npm install
+    2- node [exmapleName]
+    // like node PupInstagram.js
